@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MicroContentSet Comment="Default micro content set." MadCap:isSortedByPhrase="False" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <MicroContent id="which-car-is-the-ultimate-driving-machine">
+        <MicroContentPhrase>砻קยด1ตว融</MicroContentPhrase>
+        <MicroContentResponse href="../../BMW.htm#microcontent1" />
+    </MicroContent>
+    <MicroContent id="where-does-the-word--mercedes--come-from">
+        <MicroContentPhrase>砻קยด2ตว融</MicroContentPhrase>
+        <MicroContentResponse href="../../Mercedes.htm#microcontent2" />
+    </MicroContent>
+    <MicroContent id="what-does-the-subaru-logo-mean">
+        <MicroContentPhrase>砻קยด3ตว融</MicroContentPhrase>
+        <MicroContentResponse href="../../Subaru.htm#microcontent1" />
+    </MicroContent>
+</MicroContentSet>

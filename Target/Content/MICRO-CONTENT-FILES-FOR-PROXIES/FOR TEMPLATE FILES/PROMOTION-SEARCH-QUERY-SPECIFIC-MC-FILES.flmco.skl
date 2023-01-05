@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MicroContentSet Comment="Default micro content set." MadCap:isSortedByPhrase="True" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <MicroContent id="new-phrase-1">
+        <MicroContentPhrase>砻קยด1ตว融</MicroContentPhrase>
+        <MicroContentResponse>
+            <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                <xhtml:body>
+                    <xhtml:p>砻קยด2ตว融</xhtml:p>
+                    <xhtml:p>&#160;</xhtml:p>
+                    <xhtml:p>
+                        <xhtml:img xhtml:src="../../Resources/Images/smallest car.png" />
+                    </xhtml:p>
+                </xhtml:body>
+            </xhtml:html>
+        </MicroContentResponse>
+    </MicroContent>
+</MicroContentSet>

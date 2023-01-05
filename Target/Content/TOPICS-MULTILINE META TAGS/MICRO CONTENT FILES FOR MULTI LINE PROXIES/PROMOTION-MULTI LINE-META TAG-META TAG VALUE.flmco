@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MicroContentSet Comment="Default micro content set." MadCap:isSortedByPhrase="True" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <MicroContent id="new-phrase">
+        <Properties>
+            <MetaTagList>
+                <meta name="FAST CARS" content="GEMERA&#xD;&#xA;BUGATTI CHIRON&#xD;&#xA;HENNESSEY VENOM &#xD;&#xA;ASTON MARTIN VALKYRIE" />
+            </MetaTagList>
+        </Properties>
+        <MicroContentPhrase>GEMERA BUGATTI CHIRON HENNESSEY VENOM ASTON MARTIN VALKYRIE</MicroContentPhrase>
+        <MicroContentResponse>
+            <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                <xhtml:body>
+                    <xhtml:p><xhtml:b>World’s Quickest Cars 0-60</xhtml:b>
+                    </xhtml:p>
+                    <xhtml:p>&#160;</xhtml:p>
+                    <xhtml:p>2021 Koenigsegg Gemera – 1.9 Seconds</xhtml:p>
+                    <xhtml:p>
+                        <xhtml:img xhtml:src="../../Resources/Images/gemera.png" xhtml:style="mc-thumbnail: hover;" />
+                    </xhtml:p>
+                    <xhtml:p>2020 Bugatti Chiron Super Sport 300+ – 2.3 Seconds</xhtml:p>
+                    <xhtml:p>
+                        <xhtml:img xhtml:src="../../Resources/Images/bugatti-chiron.png" xhtml:style="mc-thumbnail: hover;" />
+                    </xhtml:p>
+                    <xhtml:p>2021 Hennessey Venom F5 – 2.4 Seconds</xhtml:p>
+                    <xhtml:p>
+                        <xhtml:img xhtml:src="../../Resources/Images/venom.png" xhtml:style="mc-thumbnail: hover;" />
+                    </xhtml:p>
+                    <xhtml:p>2021 Aston Martin Valkyrie – 2.5 Seconds</xhtml:p>
+                    <xhtml:p>
+                        <xhtml:img xhtml:src="../../Resources/Images/aston martin.png" xhtml:style="mc-thumbnail: hover;" />
+                    </xhtml:p>
+                </xhtml:body>
+            </xhtml:html>
+        </MicroContentResponse>
+    </MicroContent>
+</MicroContentSet>

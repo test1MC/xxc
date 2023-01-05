@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MicroContentSet Comment="Default micro content set." MadCap:isSortedByPhrase="True" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <MicroContent id="everything-must-go">
+        <Properties>
+            <MetaTagList>
+                <meta name="DISCOUNT" content="CHEAP CARS" />
+            </MetaTagList>
+        </Properties>
+        <MicroContentPhrase>CHEAP CARS</MicroContentPhrase>
+        <MicroContentResponse>
+            <xhtml:html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                <xhtml:body>
+                    <xhtml:p>Even most non-car-enthusiast types have probably heard of the <xhtml:b>Tata Nano</xhtml:b>, heralded as “the world's cheapest car” when it hit the Indian market in 2008 with a price tag of 100,000 rupees, equal then to a little over US$2,500 or so.</xhtml:p>
+                    <xhtml:p>&#160;</xhtml:p>
+                    <xhtml:p><xhtml:a xhtml:href="https://en.wikipedia.org/wiki/Tata_Nano" xhtml:title="TATA NANO"><xhtml:img xhtml:src="../../Resources/Images/CHEAPEST CAR.png" /></xhtml:a>
+                    </xhtml:p>
+                </xhtml:body>
+            </xhtml:html>
+        </MicroContentResponse>
+    </MicroContent>
+</MicroContentSet>

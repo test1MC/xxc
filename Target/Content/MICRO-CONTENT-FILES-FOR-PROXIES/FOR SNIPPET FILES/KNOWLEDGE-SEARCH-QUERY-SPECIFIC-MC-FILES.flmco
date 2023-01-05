@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MicroContentSet Comment="Default micro content set." MadCap:isSortedByPhrase="True" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <MicroContent id="midsize-suv">
+        <MicroContentPhrase>MIDSIZE SUV</MicroContentPhrase>
+        <MicroContentResponse>
+            <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                <xhtml:body>
+                    <xhtml:p>“A midsize SUV is <xhtml:b>an SUV vehicle with 2 or 3 rows of seats that slots between compact and full-size SUVs</xhtml:b>, striking the best balance for most families.”</xhtml:p>
+                    <xhtml:p>&#160;</xhtml:p>
+                    <xhtml:p>
+                        <xhtml:img xhtml:src="../../Resources/Images/MIDSIZE SUV.png" xhtml:style="width: 505px;height: 291px;" />
+                    </xhtml:p>
+                    <xhtml:p>&#160;</xhtml:p>
+                    <xhtml:p>The <xhtml:b>Kia Telluride</xhtml:b> is our top pick for a midsize three-row SUV. Its upscale cabin is quiet, comfortable and thoughtfully designed. It comes packed with standard features and tech, and it even has adult-friendly third-row seating. For the money, there are few more appealing ways to move seven or eight people.</xhtml:p>
+                </xhtml:body>
+            </xhtml:html>
+        </MicroContentResponse>
+    </MicroContent>
+</MicroContentSet>

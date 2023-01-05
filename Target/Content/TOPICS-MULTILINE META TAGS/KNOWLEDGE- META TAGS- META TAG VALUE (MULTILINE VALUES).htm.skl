@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:space="preserve">
+    <head>
+        <meta name="ITALIAN CAR BRANDS" content="FIAT&#xD;&#xA;FERRARI&#xD;&#xA;ALFA ROMEO&#xD;&#xA;MASERATI" />
+    </head>
+    <body>
+        <p>砻קยด1ตว融</p>
+        <p>&#160;</p>
+        <MadCap:knowledgeProxy MadCap:title="KNOWLEDGE PROXY INSIDE TOPIC- META TAGS- META TAG VALUE (MULTILINE VALUES)" MadCap:allowMicroContentStylesheets="false" MadCap:queryType="MetaTagValue" MadCap:querySource="ITALIAN CAR BRANDS">
+            <MadCap:filter MadCap:type="SelectedMetaTags" MadCap:numberOfResults="1">
+                <MadCap:microContentSubset>
+                    <MadCap:metaTag MadCap:name="ITALIAN CAR BRANDS" MadCap:value="FIAT&#xD;&#xA;FERRARI&#xD;&#xA;ALFA ROMEO&#xD;&#xA;MASERATI" />
+                </MadCap:microContentSubset>
+            </MadCap:filter>
+        </MadCap:knowledgeProxy>
+    </body>
+</html>

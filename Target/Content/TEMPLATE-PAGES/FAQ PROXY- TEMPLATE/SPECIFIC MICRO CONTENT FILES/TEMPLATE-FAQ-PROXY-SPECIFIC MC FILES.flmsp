@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:space="preserve">
+    <head>
+    </head>
+    <body>
+        <MadCap:bodyProxy />
+        <p> </p>
+        <MadCap:faqProxy MadCap:title="FAQ PROXY INSIDE TEMPLATE PAGE- SPECIFIC MC FILES" MadCap:allowMicroContentStylesheets="false" MadCap:queryType="NotSet" MadCap:sortAlphabetically="false" MadCap:generateStructuredData="false">
+            <MadCap:filter MadCap:type="SelectedFiles" MadCap:numberOfResults="1">
+                <MadCap:microContentSubset>
+                    <MadCap:file MadCap:link="../../../MICRO-CONTENT-FILES-FOR-PROXIES/FOR TEMPLATE FILES/FAQ PROXY-TEMPLATE-SPECIFIC MC FILES.flmco" />
+                </MadCap:microContentSubset>
+            </MadCap:filter>
+        </MadCap:faqProxy>
+    </body>
+</html>

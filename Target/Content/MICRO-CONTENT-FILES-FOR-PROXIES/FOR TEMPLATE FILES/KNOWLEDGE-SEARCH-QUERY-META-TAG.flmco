@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MicroContentSet Comment="Default micro content set." MadCap:isSortedByPhrase="True" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <MicroContent id="expensive">
+        <Properties>
+            <MetaTagList>
+                <meta name="BRAND" content="MOST EXPENSIVE" />
+            </MetaTagList>
+        </Properties>
+        <MicroContentPhrase>MOST EXPENSIVE</MicroContentPhrase>
+        <MicroContentResponse>
+            <xhtml:html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                <xhtml:body>
+                    <xhtml:p>The world's most expensive brand of car is the <xhtml:b>Ferrari</xhtml:b>, and more specifically the 1963 Ferrari 250 GTO. It comes with a price tag of $70 million.</xhtml:p>
+                    <xhtml:p>&#160;</xhtml:p>
+                    <xhtml:p>
+                        <xhtml:img xhtml:src="../../Resources/Images/MOST EXPENSIVE CAR.png" />
+                    </xhtml:p>
+                    <xhtml:p>&#160;</xhtml:p>
+                    <xhtml:p>In 2018, chassis number 4153GT of the Italian classic was purchased for $70 million by <xhtml:b><xhtml:a xhtml:href="https://www.google.com/search?q=david+macneil&amp;rlz=1C1ONGR_enUS978US978&amp;oq=David+MacNeil&amp;aqs=chrome.0.0i355i433i512j46i433i512j0i512l5j46i175i199i512j0i10i512j0i512.529j0j7&amp;sourceid=chrome&amp;ie=UTF-8">David MacNeil</xhtml:a></xhtml:b> in a private sale, effectively making the 250 GTO the most expensive car in the world</xhtml:p>
+                    <xhtml:p>&#160;</xhtml:p>
+                </xhtml:body>
+            </xhtml:html>
+        </MicroContentResponse>
+    </MicroContent>
+</MicroContentSet>

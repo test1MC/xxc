@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MicroContentSet
+  Comment="Default micro content set."
+  MadCap:isSortedByPhrase="True" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <MicroContent
+    id="exotic">
+    <MicroContentPhrase>Exotic</MicroContentPhrase>
+    <MicroContentResponse>
+      <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+        <xhtml:body>
+          <xhtml:p
+            xhtml:style="color: #ffff00;font-weight: bold;background-color: #ffffff;">
+            <xhtml:span
+              xhtml:style="color: #ffff00; background-color: #000000;">LAMBORGHINI</xhtml:span>
+          </xhtml:p>
+          <xhtml:p>
+            <xhtml:img
+              xhtml:src="../../Resources/Images/LAMBO.png" />
+          </xhtml:p>
+          <xhtml:p> </xhtml:p>
+          <xhtml:p>
+            <xhtml:b
+              xhtml:style="background-color: #ffff00;">FERRARI</xhtml:b>
+          </xhtml:p>
+          <xhtml:p> </xhtml:p>
+          <xhtml:p>
+            <xhtml:img
+              xhtml:src="../../Resources/Images/FERRARI.png" />
+          </xhtml:p>
+        </xhtml:body>
+      </xhtml:html>
+    </MicroContentResponse>
+  </MicroContent>
+</MicroContentSet>

@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MicroContentSet Comment="Default micro content set." MadCap:isSortedByPhrase="True" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <MicroContent id="covertible">
+        <Properties>
+            <MetaTagList>
+                <meta name="CABRIOLET" content="WHAT IS A CONVERTIBLE CAR?" />
+            </MetaTagList>
+        </Properties>
+        <MicroContentPhrase>WHAT IS A CONVERTIBLE CAR?</MicroContentPhrase>
+        <MicroContentResponse>
+            <xhtml:html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                <xhtml:body>
+                    <xhtml:p>A convertible or cabriolet (/ˌkæbrioʊˈleɪ/) is <xhtml:b>a passenger car that can be driven with or without a roof in place</xhtml:b>. The methods of retracting and storing the roof vary between models. A convertible allows an open-air driving experience, with the ability to provide a roof when required.</xhtml:p>
+                    <xhtml:p>&#160;</xhtml:p>
+                    <xhtml:p>&#160;</xhtml:p>
+                    <xhtml:p>
+                        <xhtml:img xhtml:src="../../Resources/Images/CONVERTIBLE.png" />
+                    </xhtml:p>
+                </xhtml:body>
+            </xhtml:html>
+        </MicroContentResponse>
+    </MicroContent>
+    <MicroContent id="are-convertible-cars-safe">
+        <Properties>
+            <MetaTagList>
+                <meta name="SAFETY" content="ARE CONVERTIBLE CARS SAFE?" />
+            </MetaTagList>
+        </Properties>
+        <MicroContentPhrase>ARE CONVERTIBLE CARS SAFE?</MicroContentPhrase>
+        <MicroContentResponse>
+            <xhtml:html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                <xhtml:body>
+                    <xhtml:p>A common concern people have with convertibles is that they aren't as safe as regular cars. A new study conducted by IIHS concludes that <xhtml:b>convertibles are no less dangerous than their non-convertible counterparts</xhtml:b>. These results only apply to convertibles that are 1 to 5 years old, however.</xhtml:p>
+                </xhtml:body>
+            </xhtml:html>
+        </MicroContentResponse>
+    </MicroContent>
+    <MicroContent id="are-convertibles-more-expensive">
+        <Properties>
+            <MetaTagList>
+                <meta name="COST" content="ARE CONVERTIBLES MORE EXPENSIVE?" />
+            </MetaTagList>
+        </Properties>
+        <MicroContentPhrase>ARE CONVERTIBLES MORE EXPENSIVE?</MicroContentPhrase>
+        <MicroContentResponse>
+            <xhtml:html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                <xhtml:body>
+                    <xhtml:p><xhtml:b>Convertibles are generally more expensive to purchase</xhtml:b>, mainly because these cars include additional moving parts to operate the convertible top.</xhtml:p>
+                </xhtml:body>
+            </xhtml:html>
+        </MicroContentResponse>
+    </MicroContent>
+</MicroContentSet>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MicroContentSet Comment="Default micro content set." MadCap:isSortedByPhrase="True" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <MicroContent id="motor">
+        <MicroContentPhrase>MOTOR</MicroContentPhrase>
+        <MicroContentPhrase>ENGINE</MicroContentPhrase>
+        <MicroContentResponse>
+            <xhtml:html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                <xhtml:body>
+                    <xhtml:p>An engine, or motor, <xhtml:b>is a machine used to change energy into movement that can be used</xhtml:b>. The energy can be in any form. Common forms of energy used in engines are electricity, chemical (such as petrol or diesel) or heat. When a chemical is used to produce energy it is known as fuel.</xhtml:p>
+                    <xhtml:p>&#160;</xhtml:p>
+                    <xhtml:p>
+                        <xhtml:img xhtml:src="../../Resources/Images/ENGINE.png" />
+                    </xhtml:p>
+                    <xhtml:p>&#160;</xhtml:p>
+                    <xhtml:p>In a spark ignition engine, the fuel is mixed with air and then inducted into the cylinder during the intake process. After the piston compresses the fuel-air mixture, the spark ignites it, causing combustion. The expansion of the combustion gases pushes the piston during the power stroke.</xhtml:p>
+                    <xhtml:p>&#160;</xhtml:p>
+                    <xhtml:p>&#160;</xhtml:p>
+                </xhtml:body>
+            </xhtml:html>
+        </MicroContentResponse>
+    </MicroContent>
+</MicroContentSet>

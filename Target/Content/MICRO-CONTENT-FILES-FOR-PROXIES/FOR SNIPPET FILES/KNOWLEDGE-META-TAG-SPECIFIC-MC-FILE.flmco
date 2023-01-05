@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MicroContentSet Comment="Default micro content set." MadCap:isSortedByPhrase="True" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <MicroContent id="datsun">
+        <MicroContentPhrase>DATSUN</MicroContentPhrase>
+        <MicroContentResponse href="../../Nissan.htm#microcontent1" />
+    </MicroContent>
+</MicroContentSet>

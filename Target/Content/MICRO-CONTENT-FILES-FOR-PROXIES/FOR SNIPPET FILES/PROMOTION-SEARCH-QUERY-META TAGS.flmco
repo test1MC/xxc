@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MicroContentSet Comment="Default micro content set." MadCap:isSortedByPhrase="True" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <MicroContent id="french-car">
+        <Properties>
+            <MetaTagList>
+                <meta name="EUROPE" content="FRENCH CAR" />
+            </MetaTagList>
+        </Properties>
+        <MicroContentPhrase>FRENCH CAR</MicroContentPhrase>
+        <MicroContentResponse>
+            <xhtml:html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                <xhtml:body>
+                    <xhtml:p>In France, there are three major French car manufacturers: <xhtml:b>Citroën (pronounced sih-tro-n), Peugeot (puh-joh), and Renault (ruh-no)</xhtml:b>. If you happen to be in France, you'll see these cars everywhere, so I decided to make an article dedicated to the wonderful cars of France.</xhtml:p>
+                    <xhtml:p>&#160;</xhtml:p>
+                    <xhtml:p>
+                        <xhtml:img xhtml:src="../../Resources/Images/FRENCH CARS.png" xhtml:style="width: 438px;height: 265px;" />
+                    </xhtml:p>
+                </xhtml:body>
+            </xhtml:html>
+        </MicroContentResponse>
+    </MicroContent>
+</MicroContentSet>

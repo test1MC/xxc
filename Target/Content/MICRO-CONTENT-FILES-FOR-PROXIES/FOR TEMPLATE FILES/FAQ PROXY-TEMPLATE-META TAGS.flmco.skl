@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MicroContentSet Comment="Default micro content set." MadCap:isSortedByPhrase="False" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <MicroContent id="sdf">
+        <Properties>
+            <MetaTagList>
+                <meta name="CAR 1" content="COUPE CAR" />
+            </MetaTagList>
+        </Properties>
+        <MicroContentPhrase>砻קยด1ตว融</MicroContentPhrase>
+        <MicroContentPhrase>砻קยด2ตว融</MicroContentPhrase>
+        <MicroContentResponse>
+            <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                <xhtml:body>
+                    <xhtml:p>砻קยด3ตว融</xhtml:p>
+                </xhtml:body>
+            </xhtml:html>
+        </MicroContentResponse>
+    </MicroContent>
+    <MicroContent id="what-makes-a-coupe-car">
+        <Properties>
+            <MetaTagList>
+                <meta name="CAR 3" content="ALTERNATIVE PHRASE" />
+            </MetaTagList>
+        </Properties>
+        <MicroContentPhrase>砻קยด4ตว融</MicroContentPhrase>
+        <MicroContentPhrase>砻קยด5ตว融</MicroContentPhrase>
+        <MicroContentResponse>
+            <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                <xhtml:body>
+                    <xhtml:p>砻קยด6ตว融</xhtml:p>
+                </xhtml:body>
+            </xhtml:html>
+        </MicroContentResponse>
+    </MicroContent>
+    <MicroContent id="what-is-coupe-vs-hatchback">
+        <Properties>
+            <MetaTagList>
+                <meta name="CAR 2" content="HATCHBACK CAR" />
+            </MetaTagList>
+        </Properties>
+        <MicroContentPhrase>砻קยด7ตว融</MicroContentPhrase>
+        <MicroContentPhrase>砻קยด8ตว融</MicroContentPhrase>
+        <MicroContentResponse>
+            <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                <xhtml:body>
+                    <xhtml:p>砻קยด9ตว融</xhtml:p>
+                </xhtml:body>
+            </xhtml:html>
+        </MicroContentResponse>
+    </MicroContent>
+</MicroContentSet>

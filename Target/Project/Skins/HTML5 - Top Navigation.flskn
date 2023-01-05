@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultSkin
+  Version="5"
+  SkinType="WebHelp2"
+  ComponentType="MasterPage"
+  TemplateName="Fluid"
+  Comment="HTML5 Top Navigation skin"
+  EnableResponsiveOutput="True"
+  AutoSyncTOC="true">
+  <WebHelpOptions
+    NavigationPanePosition="Right" />
+  <Stylesheet>
+    <Styles>
+      <Style
+        Name="Micro Content FAQ Panel">
+        <Properties>
+          <Property
+            Name="Color">#0000ff</Property>
+          <Property
+            Name="FontStyle">italic</Property>
+          <Property
+            Name="FontFamily">Arial</Property>
+          <Property
+            Name="FontSize">16px</Property>
+          <Property
+            Name="FontWeight">bold</Property>
+        </Properties>
+      </Style>
+    </Styles>
+  </Stylesheet>
+  <Strings />
+</CatapultSkin>

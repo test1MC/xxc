@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xliff
+  version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+  MadCap:translationStatus="untranslated">
+  <file
+    xml:space="preserve"
+    original="KNOWLEDGE-SEARCH-QUERY-META-TAG.flmco"
+    source-language="en-us"
+    MadCap:file-filter=""
+    datatype="x-flmco"
+    target-language="ar">
+    <header>
+      <skl><external-file
+          href="KNOWLEDGE-SEARCH-QUERY-META-TAG.flmco.skl" /></skl>
+      <phase-group>
+        <phase
+          phase-name="translation"
+          process-name="translation" />
+        <phase
+          phase-name="completion"
+          process-name="translation" />
+        <phase
+          phase-name="approval"
+          process-name="review" />
+        <phase
+          phase-name="pretrans"
+          process-name="pre-translation" />
+      </phase-group>
+      <count-group
+        name="MadCap Statistics">
+        <count
+          count-type="total"
+          unit="segment">5</count>
+        <count
+          count-type="x-subflow"
+          unit="trans-unit">0</count>
+      </count-group>
+      <tool
+        tool-id="MadCap Lingo 11 r2 (Lingo release)"
+        tool-name="Lingo"
+        tool-version="11.1.8396.18872"
+        tool-company="MadCap Software" />
+    </header>
+    <body><trans-unit
+        id="1"
+        restype="x-xml-microcontentphrase"
+        phase-name="pretrans"><source>MOST EXPENSIVE</source><seg-source><mrk
+            mtype="seg"
+            mid="1">MOST EXPENSIVE</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="2"
+        restype="x-xml-xhtml:p"
+        phase-name="pretrans"><source>The world's most expensive brand of car is the <bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;xhtml:b xmlns:xhtml="http://www.w3.org/1999/xhtml"&gt;</bpt>Ferrari<ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/xhtml:b&gt;</ept>, and more specifically the 1963 Ferrari 250 GTO. It comes with a price tag of $70 million.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">The world's most expensive brand of car is the <bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;xhtml:b xmlns:xhtml="http://www.w3.org/1999/xhtml"&gt;</bpt>Ferrari<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/xhtml:b&gt;</ept>, and more specifically the 1963 Ferrari 250 GTO.</mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk><mrk
+            mtype="seg"
+            mid="3">It comes with a price tag of $70 million.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="3"
+        restype="x-xml-xhtml:p"
+        phase-name="pretrans"><source>In 2018, chassis number 4153GT of the Italian classic was purchased for $70 million by <bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;xhtml:b xmlns:xhtml="http://www.w3.org/1999/xhtml"&gt;&lt;xhtml:a xhtml:href="https://www.google.com/search?q=david+macneil&amp;amp;rlz=1C1ONGR_enUS978US978&amp;amp;oq=David+MacNeil&amp;amp;aqs=chrome.0.0i355i433i512j46i433i512j0i512l5j46i175i199i512j0i10i512j0i512.529j0j7&amp;amp;sourceid=chrome&amp;amp;ie=UTF-8"&gt;</bpt>David MacNeil<ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/xhtml:a&gt;&lt;/xhtml:b&gt;</ept> in a private sale, effectively making the 250 GTO the most expensive car in the world</source><seg-source><mrk
+            mtype="seg"
+            mid="1">In 2018, chassis number 4153GT of the Italian classic was purchased for $70 million by <bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;xhtml:b xmlns:xhtml="http://www.w3.org/1999/xhtml"&gt;&lt;xhtml:a xhtml:href="https://www.google.com/search?q=david+macneil&amp;amp;rlz=1C1ONGR_enUS978US978&amp;amp;oq=David+MacNeil&amp;amp;aqs=chrome.0.0i355i433i512j46i433i512j0i512l5j46i175i199i512j0i10i512j0i512.529j0j7&amp;amp;sourceid=chrome&amp;amp;ie=UTF-8"&gt;</bpt>David MacNeil<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/xhtml:a&gt;&lt;/xhtml:b&gt;</ept> in a private sale, effectively making the 250 GTO the most expensive car in the world</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit></body>
+  </file>
+</xliff>

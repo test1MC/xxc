@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MicroContentSet Comment="Default micro content set." MadCap:isSortedByPhrase="True" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <MicroContent id="bike">
+        <MicroContentPhrase>BIKE</MicroContentPhrase>
+        <MicroContentPhrase>MOTORCYCLE</MicroContentPhrase>
+        <MicroContentResponse>
+            <xhtml:html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                <xhtml:body>
+                    <xhtml:p>Today, <xhtml:b>sport bikes</xhtml:b> are one of the most popular types of motorcycles, especially among younger people. They aren't just for high performance and speed; sport bikes are also popular for commuting thanks to their great handling and small size. This makes it easy to work through city traffic.</xhtml:p>
+                    <xhtml:p>&#160;</xhtml:p>
+                    <xhtml:p>
+                        <xhtml:img xhtml:src="../../Resources/Images/BIKE.png" xhtml:style="width: 407px;height: 274px;" />
+                    </xhtml:p>
+                </xhtml:body>
+            </xhtml:html>
+        </MicroContentResponse>
+    </MicroContent>
+</MicroContentSet>

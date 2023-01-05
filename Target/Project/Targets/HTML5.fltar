@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="MadCap HTML5 Target"
+  Type="WebHelp2"
+  Destinations=""
+  ShowMadCapBacklink="true"
+  GlossaryTermConversion="marked"
+  DefaultUrl="/Content/About-Cars.htm"
+  ContentInclusionType="All"
+  ConditionTagExpression=""
+  Skin="/Project/Skins/TOP-NAV-FAQ.flskn">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true" />
+  <MicroContentSearch>
+    <FeaturedSnippets
+      type="SelectedFiles"
+      numberOfResults="3">
+      <microContentSubset>
+        <file
+          link="/Content/Micro-Content-Files/FEATURED-SNIPPETS.flmco" />
+      </microContentSubset>
+    </FeaturedSnippets>
+    <KnowledgePanel
+      type="SelectedFiles"
+      numberOfResults="3">
+      <microContentSubset>
+        <file
+          link="/Content/Micro-Content-Files/KNOWLEDGE-MICRO-CONTENT.flmco" />
+      </microContentSubset>
+    </KnowledgePanel>
+  </MicroContentSearch>
+</CatapultTarget>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:space="preserve">
+    <body>
+        <p>SNIPPET- KNOWLEDGE/PROMO PROXIES: META TAGS - META TAG VALUE</p>
+        <p> </p>
+        <MadCap:knowledgeProxy MadCap:title="KNOWLEDGE PROXY INSIDE SNIPPET- META TAGS- META TAG VALUE" MadCap:allowMicroContentStylesheets="false" MadCap:queryType="MetaTagValue" MadCap:querySource="RIDE">
+            <MadCap:filter MadCap:type="SelectedMetaTags" MadCap:numberOfResults="1">
+                <MadCap:microContentSubset>
+                    <MadCap:metaTag MadCap:name="RIDE" MadCap:value="COUPE" />
+                </MadCap:microContentSubset>
+            </MadCap:filter>
+        </MadCap:knowledgeProxy>
+        <p> </p>
+        <MadCap:promotionProxy MadCap:title="PROMOTION PROXY INSIDE SNIPPET- META TAGS- META TAG VALUE" MadCap:allowMicroContentStylesheets="false" MadCap:queryType="MetaTagValue" MadCap:querySource="FREE">
+            <MadCap:filter MadCap:type="SelectedMetaTags" MadCap:numberOfResults="1">
+                <MadCap:microContentSubset>
+                    <MadCap:metaTag MadCap:name="FREE" MadCap:value="SALE" />
+                </MadCap:microContentSubset>
+            </MadCap:filter>
+        </MadCap:promotionProxy>
+    </body>
+</html>

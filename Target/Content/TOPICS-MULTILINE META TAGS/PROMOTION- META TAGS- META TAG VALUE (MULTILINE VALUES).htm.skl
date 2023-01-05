@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:space="preserve">
+    <head>
+        <meta name="FAST CARS" content="GEMERA&#xD;&#xA;BUGATTI CHIRON&#xD;&#xA;HENNESSEY VENOM &#xD;&#xA;ASTON MARTIN VALKYRIE" />
+    </head>
+    <body>
+        <p>砻קยด1ตว融</p>
+        <p>&#160;</p>
+        <MadCap:promotionProxy MadCap:title="PROMOTION PROXY INSIDE TOPIC- META TAGS- META TAG VALUE (MULTILINE VALUES)" MadCap:allowMicroContentStylesheets="false" MadCap:queryType="MetaTagValue" MadCap:querySource="FAST CARS">
+            <MadCap:filter MadCap:type="SelectedMetaTags" MadCap:numberOfResults="1">
+                <MadCap:microContentSubset>
+                    <MadCap:metaTag MadCap:name="FAST CARS" MadCap:value="GEMERA&#xD;&#xA;BUGATTI CHIRON&#xD;&#xA;HENNESSEY VENOM&#xD;&#xA;ASTON MARTIN VALKYRIE" />
+                </MadCap:microContentSubset>
+            </MadCap:filter>
+        </MadCap:promotionProxy>
+    </body>
+</html>

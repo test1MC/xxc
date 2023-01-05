@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MicroContentSet Comment="Default micro content set." MadCap:isSortedByPhrase="True" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <MicroContent id="korean-car">
+        <Properties>
+            <MetaTagList>
+                <meta name="ASIA" content="KOREAN CAR" />
+            </MetaTagList>
+        </Properties>
+        <MicroContentPhrase>KOREAN CAR</MicroContentPhrase>
+        <MicroContentResponse>
+            <xhtml:html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                <xhtml:body>
+                    <xhtml:p>South Korea is the fifth largest car manufacturer in the world. It is known for creating top companies Kia Motors, Renault Samsung Motors, Hyundai, and Daewoo.</xhtml:p>
+                    <xhtml:p>&#160;</xhtml:p>
+                    <xhtml:p>
+                        <xhtml:img xhtml:src="../../Resources/Images/KOREAN CARS.png" xhtml:style="width: 401px;height: 237px;" />
+                    </xhtml:p>
+                </xhtml:body>
+            </xhtml:html>
+        </MicroContentResponse>
+    </MicroContent>
+</MicroContentSet>

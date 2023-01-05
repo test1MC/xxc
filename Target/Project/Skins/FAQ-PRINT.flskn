@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultSkin
+  Version="5"
+  SkinType="Component"
+  Comment="Micro Content Component skin with Drop-Down view mode. This skin is used for FAQ proxies by default, but it can also be used for Knowledge and Promotion proxies."
+  ComponentType="MicroContent"
+  EnableResponsiveOutput="True">
+  <MicroContentOptions
+    ViewMode="DropDown" />
+  <Stylesheet>
+    <Styles>
+      <Style
+        Name="Proxy Title">
+        <Properties>
+          <Property
+            Name="BackgroundColor">#daa520</Property>
+        </Properties>
+      </Style>
+    </Styles>
+  </Stylesheet>
+  <Strings />
+</CatapultSkin>

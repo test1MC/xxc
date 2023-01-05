@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultSkin
+  Version="5"
+  SkinType="Component"
+  Comment="Micro Content Component skin with Truncated view mode. This skin is used for Knowledge proxies by default, but it can also be used for FAQ and Promotion proxies."
+  ComponentType="MicroContent"
+  EnableResponsiveOutput="True">
+  <MicroContentOptions
+    ViewMode="Truncated" />
+  <Stylesheet>
+    <Styles>
+      <Style
+        Name="Truncated Response Collapse">
+        <Properties>
+          <Property
+            Name="BackgroundGradient">vertical #4169e1 transparent</Property>
+          <Property
+            Name="BorderTop">dashed 4px #ff0000</Property>
+          <Property
+            Name="BorderBottom">dashed 4px #ff0000</Property>
+          <Property
+            Name="BorderLeft">dashed 4px #adff2f</Property>
+          <Property
+            Name="BorderRight">dashed 4px #adff2f</Property>
+        </Properties>
+      </Style>
+    </Styles>
+  </Stylesheet>
+  <Strings />
+</CatapultSkin>

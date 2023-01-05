@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:space="preserve">
+    <head>
+    </head>
+    <body>
+        <MadCap:breadcrumbsProxy />
+        <MadCap:bodyProxy />
+        <p>&#160;</p>
+        <MadCap:knowledgeProxy MadCap:title="KNOWLEDGE PROXY INSIDE TEMPLATE PAGE- META TAGS- SEARCH QUERY" MadCap:allowMicroContentStylesheets="false" MadCap:queryType="SearchQuery">
+            <MadCap:filter MadCap:type="SelectedMetaTags" MadCap:numberOfResults="1">
+                <MadCap:microContentSubset>
+                    <MadCap:metaTag MadCap:name="BRAND" MadCap:value="MOST EXPENSIVE" />
+                </MadCap:microContentSubset>
+            </MadCap:filter>
+        </MadCap:knowledgeProxy>
+        <p>&#160;</p>
+        <MadCap:promotionProxy MadCap:title="PROMOTION PROXY INSIDE TEMPLATE PAGE- META TAGS- SEARCH QUERY" MadCap:allowMicroContentStylesheets="false" MadCap:queryType="SearchQuery">
+            <MadCap:filter MadCap:type="SelectedMetaTags" MadCap:numberOfResults="1">
+                <MadCap:microContentSubset>
+                    <MadCap:metaTag MadCap:name="DISCOUNT" MadCap:value="CHEAP CARS" />
+                </MadCap:microContentSubset>
+            </MadCap:filter>
+        </MadCap:promotionProxy>
+    </body>
+</html>

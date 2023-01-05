@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MicroContentSet Comment="Default micro content set." MadCap:isSortedByPhrase="True" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <MicroContent id="off-road">
+        <Properties>
+            <MetaTagList>
+                <meta name="SAND" content="OFF ROAD" />
+            </MetaTagList>
+        </Properties>
+        <MicroContentPhrase>OFF ROAD</MicroContentPhrase>
+        <MicroContentResponse>
+            <xhtml:html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                <xhtml:body>
+                    <xhtml:p>An off-road vehicle sometimes refer to as an <xhtml:b>overland or adventure vehicle</xhtml:b> is considered to be any type of vehicle which is capable of driving on and off paved or gravel surface. It is generally characterized by having large tires with deep, open treads, a flexible suspension, or even caterpillar tracks.</xhtml:p>
+                    <xhtml:p>&#160;</xhtml:p>
+                    <xhtml:p>
+                        <xhtml:img xhtml:src="../../Resources/Images/OFF ROAD.png" />
+                    </xhtml:p>
+                </xhtml:body>
+            </xhtml:html>
+        </MicroContentResponse>
+    </MicroContent>
+</MicroContentSet>

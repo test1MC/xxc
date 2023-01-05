@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MicroContentSet Comment="Default micro content set." MadCap:isSortedByPhrase="True" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <MicroContent id="covertible">
+        <Properties>
+            <MetaTagList>
+                <meta name="CABRIOLET" content="WHAT IS A CONVERTIBLE CAR?" />
+            </MetaTagList>
+        </Properties>
+        <MicroContentPhrase>砻קยด1ตว融</MicroContentPhrase>
+        <MicroContentResponse>
+            <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                <xhtml:body>
+                    <xhtml:p>砻קยด2ตว融</xhtml:p>
+                    <xhtml:p>&#160;</xhtml:p>
+                    <xhtml:p>&#160;</xhtml:p>
+                    <xhtml:p>
+                        <xhtml:img xhtml:src="../../Resources/Images/CONVERTIBLE.png" />
+                    </xhtml:p>
+                </xhtml:body>
+            </xhtml:html>
+        </MicroContentResponse>
+    </MicroContent>
+    <MicroContent id="are-convertible-cars-safe">
+        <Properties>
+            <MetaTagList>
+                <meta name="SAFETY" content="ARE CONVERTIBLE CARS SAFE?" />
+            </MetaTagList>
+        </Properties>
+        <MicroContentPhrase>砻קยด3ตว融</MicroContentPhrase>
+        <MicroContentResponse>
+            <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                <xhtml:body>
+                    <xhtml:p>砻קยด4ตว融</xhtml:p>
+                </xhtml:body>
+            </xhtml:html>
+        </MicroContentResponse>
+    </MicroContent>
+    <MicroContent id="are-convertibles-more-expensive">
+        <Properties>
+            <MetaTagList>
+                <meta name="COST" content="ARE CONVERTIBLES MORE EXPENSIVE?" />
+            </MetaTagList>
+        </Properties>
+        <MicroContentPhrase>砻קยด5ตว融</MicroContentPhrase>
+        <MicroContentResponse>
+            <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                <xhtml:body>
+                    <xhtml:p>砻קยด6ตว融</xhtml:p>
+                </xhtml:body>
+            </xhtml:html>
+        </MicroContentResponse>
+    </MicroContent>
+</MicroContentSet>

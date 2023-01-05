@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MicroContentSet Comment="Default micro content set." MadCap:isSortedByPhrase="True" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <MicroContent id="coupe">
+        <Properties>
+            <MetaTagList>
+                <meta name="RIDE" content="COUPE" />
+            </MetaTagList>
+        </Properties>
+        <MicroContentPhrase>COUPE</MicroContentPhrase>
+        <MicroContentResponse href="../../COUPE-CARS.htm#microcontent1" />
+    </MicroContent>
+</MicroContentSet>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MicroContentSet Comment="Default micro content set." MadCap:isSortedByPhrase="True" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <MicroContent id="hot-rod">
+        <Properties>
+            <MetaTagList>
+                <meta name="FAST SPEED" content="HOT ROD" />
+            </MetaTagList>
+        </Properties>
+        <MicroContentPhrase>HOT ROD</MicroContentPhrase>
+        <MicroContentResponse>
+            <xhtml:html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                <xhtml:body>
+                    <xhtml:p>Often called a street rod, a hot rod is a classic American car with an oversized engine modified for speed. It is this powerful engine that gave the hot rod its name. <xhtml:b>The term “rod” comes from the connecting rods in the high-power, or “hot,” engine</xhtml:b>. And so, the name hot rod stuck.</xhtml:p>
+                    <xhtml:p>&#160;</xhtml:p>
+                    <xhtml:p>
+                        <xhtml:img xhtml:src="../../Resources/Images/HOT ROD.png" />
+                    </xhtml:p>
+                </xhtml:body>
+            </xhtml:html>
+        </MicroContentResponse>
+    </MicroContent>
+</MicroContentSet>

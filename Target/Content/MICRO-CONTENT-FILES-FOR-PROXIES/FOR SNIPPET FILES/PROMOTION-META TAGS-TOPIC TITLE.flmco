@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MicroContentSet Comment="Default micro content set." MadCap:isSortedByPhrase="True" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <MicroContent id="minivan">
+        <Properties>
+            <MetaTagList>
+                <meta name="FAMILY CAR" content="MINIVAN" />
+            </MetaTagList>
+        </Properties>
+        <MicroContentPhrase>MINIVAN</MicroContentPhrase>
+        <MicroContentResponse>
+            <xhtml:html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                <xhtml:body>
+                    <xhtml:p>A minivan is classified as <xhtml:b>a vehicle that is built atop a platform of a small car</xhtml:b>. One simple characteristic that distinguishes it apart from other car classifications, is its easy to use, sliding or hinged rear doors, and its body which sits lower to the ground compared to SUVs or trucks.</xhtml:p>
+                    <xhtml:p>&#160;</xhtml:p>
+                    <xhtml:p>
+                        <xhtml:img xhtml:src="../../Resources/Images/MINVAN.png" xhtml:style="width: 313px;height: 172px;" />
+                    </xhtml:p>
+                    <xhtml:p>&#160;</xhtml:p>
+                    <xhtml:p>Minivan (sometimes called simply as van) is a <xhtml:b>North American car classification for vehicles designed to transport passengers in the rear seating row(s)</xhtml:b>, with reconfigurable seats in two or three rows.</xhtml:p>
+                </xhtml:body>
+            </xhtml:html>
+        </MicroContentResponse>
+    </MicroContent>
+</MicroContentSet>

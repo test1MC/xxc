@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:space="preserve">
+    <head>
+    </head>
+    <body>
+        <MadCap:breadcrumbsProxy />
+        <MadCap:bodyProxy />
+        <p>&#160;</p>
+        <MadCap:knowledgeProxy MadCap:title="KNOWLEDGE PROXY INSIDE TEMPLATE PAGE- SPECIFIC MC FILES- SEARCH QUERY" MadCap:allowMicroContentStylesheets="false" MadCap:queryType="SearchQuery">
+            <MadCap:filter MadCap:type="SelectedFiles" MadCap:numberOfResults="3">
+                <MadCap:microContentSubset>
+                    <MadCap:file MadCap:link="../../../MICRO-CONTENT-FILES-FOR-PROXIES/FOR TEMPLATE FILES/KNOWLEDGE-SEARCH-QUERY-SPECIFIC-MC-FILES.flmco" />
+                </MadCap:microContentSubset>
+            </MadCap:filter>
+        </MadCap:knowledgeProxy>
+        <p>&#160;</p>
+        <MadCap:promotionProxy MadCap:title="PROMOTION PROXY INSIDE TEMPLATE PAGE- SPECIFIC MC FILES- SEARCH QUERY" MadCap:allowMicroContentStylesheets="false" MadCap:queryType="SearchQuery">
+            <MadCap:filter MadCap:type="SelectedFiles" MadCap:numberOfResults="3">
+                <MadCap:microContentSubset>
+                    <MadCap:file MadCap:link="../../../MICRO-CONTENT-FILES-FOR-PROXIES/FOR TEMPLATE FILES/PROMOTION-SEARCH-QUERY-SPECIFIC-MC-FILES.flmco" />
+                </MadCap:microContentSubset>
+            </MadCap:filter>
+        </MadCap:promotionProxy>
+    </body>
+</html>

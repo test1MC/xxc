@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MicroContentSet Comment="Default micro content set." MadCap:isSortedByPhrase="True" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <MicroContent id="car">
+        <MicroContentPhrase>砻קยด1ตว融</MicroContentPhrase>
+        <MicroContentResponse href="../Audi.htm#microcontent1" />
+    </MicroContent>
+    <MicroContent id="vehicle">
+        <MicroContentPhrase>砻קยด2ตว融</MicroContentPhrase>
+        <MicroContentResponse href="../Toyota.htm#microcontent1" />
+    </MicroContent>
+    <MicroContent id="car-1">
+        <MicroContentPhrase>砻קยด3ตว融</MicroContentPhrase>
+        <MicroContentPhrase>砻קยด4ตว融</MicroContentPhrase>
+        <MicroContentResponse href="../Chevrolet.htm#microcontent1" />
+    </MicroContent>
+</MicroContentSet>
